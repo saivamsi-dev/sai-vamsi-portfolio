@@ -1,13 +1,68 @@
-# React + Vite
+# Sai Vamsi Rao – Developer Portfolio 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal developer portfolio built using **Vite + ReactJS**, showcasing my work, skills, and experiences in software development.
 
-Currently, two official plugins are available:
+## 🔍 About This Project
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This portfolio includes:
+- A clean, modern, responsive UI
+- Dark/Light mode toggle
+- Sections like About, Skills, Projects, and Contact
+- Built with **ReactJS**, **Vite**, and styled with custom CSS
 
-## Expanding the ESLint configuration
+## 🧠 Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-"# sai-vamsi-portfolio" 
+- **ReactJS**
+- **Vite**
+- **HTML5 & CSS3**
+- **JavaScript (ES6+)**
+- **AOS (Animate On Scroll)**
+- **React Icons**
+- **Figma/Canva** for UI Design
+
+## 📂 Project Structure
+
+my-portfolio/
+│
+├── public/
+├── src/
+│ ├── components/
+│ ├── styles/
+│ ├── App.jsx
+│ └── index.css
+├── .gitignore
+├── index.html
+├── package.json
+└── README.md
+
+## 🛠️ Setup Instructions
+
+1. Clone the repo  
+```bash
+git clone https://github.com/saivamsi-dev/sai-vamsi-portfolio.git
+```
+Install dependencies
+```bash
+npm install
+```
+Start the development server
+```bash
+npm run dev
+```
+Build for production
+```bash
+npm run build
+```
+## 🌐 Live Preview
+Coming soon on Vercel!
+
+## 📬 Contact Me
+Email: saivamsi@example.com (Replace with your professional email)
+
+LinkedIn: linkedin.com/in/sai-vamsi
+
+GitHub: @saivamsi-dev
+
+Thanks for checking it out! 🙌
+Feel free to fork and build your own version of this portfolio 🎨
+---
