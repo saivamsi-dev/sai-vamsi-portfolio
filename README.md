@@ -63,6 +63,6 @@ LinkedIn: linkedin.com/in/sai-vamsi
 
 GitHub: @saivamsi-dev
 
-Thanks for checking it out! 🙌
-Feel free to fork and build your own version of this portfolio 🎨
+Thanks for checking it out! 
+Feel free to fork and build your own version of this portfolio 
 ---
