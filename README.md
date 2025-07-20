@@ -26,11 +26,8 @@ my-portfolio/
 
 │
 ├── public/
-
 ├── src/
-
 │ ├── components/
-
 │ ├── styles/
 
 │ ├── App.jsx
