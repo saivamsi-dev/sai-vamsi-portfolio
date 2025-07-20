@@ -23,16 +23,26 @@ This portfolio includes:
 ## 📂 Project Structure
 
 my-portfolio/
+
 │
 ├── public/
+
 ├── src/
+
 │ ├── components/
+
 │ ├── styles/
+
 │ ├── App.jsx
+
 │ └── index.css
+
 ├── .gitignore
+
 ├── index.html
+
 ├── package.json
+
 └── README.md
 
 ## 🛠️ Setup Instructions
