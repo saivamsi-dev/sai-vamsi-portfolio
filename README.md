@@ -26,7 +26,7 @@ my-portfolio/
 
 │
 ├── public/<br/>
-├── src/<br/>
+|── src/<br/>
 │ ├── components/<br/>
 │ ├── styles/<br/>
 │ ├── App.jsx<br/>
