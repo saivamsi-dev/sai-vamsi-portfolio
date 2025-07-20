@@ -25,22 +25,16 @@ This portfolio includes:
 my-portfolio/
 
 │
-├── public/
-├── src/
-│ ├── components/
-│ ├── styles/
-
-│ ├── App.jsx
-
-│ └── index.css
-
-├── .gitignore
-
-├── index.html
-
-├── package.json
-
-└── README.md
+├── public/<br/>
+├── src/<br/>
+│ ├── components/<br/>
+│ ├── styles/<br/>
+│ ├── App.jsx<br/>
+│ └── index.css<br/>
+├── .gitignore<br/>
+├── index.html<br/>
+├── package.json<br/>
+└── README.md<br/>
 
 ## 🛠️ Setup Instructions
 
