@@ -43,13 +43,51 @@ my-portfolio/
 
 **🛠️ Setup Instructions**
 Clone the repo:
-
+--
 git clone https://github.com/saivamsi-dev/sai-vamsi-portfolio.git
---
-Install dependencies:
 
-npm install
+Install dependencies:
 --
+npm install
+
 Start the development server:
+--
+npm run dev
+
+Build for production:
+--
+npm run build
+
+
+🌐 Live Preview
+--
+🔗 View Portfolio on Vercel
+ (link will be added after deployment)
+
+📬 Contact Me
+📧 Email: saivamsi.1020.dev@gmail.com
+💼 LinkedIn: linkedin.com/in/sai-vamsi
+🐙 GitHub: @saivamsi-dev
+
+
+✨ Thanks for checking it out! Feel free to fork and create your own portfolio.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
