@@ -81,8 +81,7 @@ npm run build
 
 ## 🌍 Live Demo
 
-🔗 Deployed Portfolio
- (Link will be updated after Vercel deployment)
+🔗 Deployed Portfolio:   https://sai-vamsi-portfolio.vercel.app/
 
 ---
 
