@@ -1,6 +1,7 @@
 # 🚀 Sai Vamsi Rao – Developer Portfolio  
 
-![Portfolio Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapers.com%2Fwallpapers%2Fsoft-aesthetic-computer-o7j5umba0b2ocb3p.html&psig=AOvVaw1Z23IsNaGec-Eu7YdpJOwp&ust=1758222375480000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPjy2vS-4I8DFQAAAAAdAAAAABAE) 
+![Portfolio Banner](https://wallpapers.com/images/hd/soft-aesthetic-computer-o7j5umba0b2ocb3p.jpg)
+
 
 A modern, responsive **developer portfolio** built with **React + Vite** to showcase my projects, skills, and journey.  
 
