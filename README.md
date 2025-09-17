@@ -42,6 +42,7 @@ my-portfolio/
 
 
 **🛠️ Setup Instructions**
+
 Clone the repo:
 --
 git clone https://github.com/saivamsi-dev/sai-vamsi-portfolio.git
