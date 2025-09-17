@@ -44,25 +44,15 @@ my-portfolio/
 ├── public/              # Static assets (resume, icons, etc.)
 
 ├── src/
-
 │   ├── components/      # Navbar, Footer, ProjectCard, etc.
-
 │   ├── pages/           # About, Home, Projects, Contact
-
 │   ├── assets/          # Images, profile picture
-
 │   ├── App.jsx          # Main app component
-
 │   └── index.css        # Global styles
-
 │
-
 ├── index.html
-
 ├── package.json
-
 ├── vite.config.js
-
 └── README.md
 
 
