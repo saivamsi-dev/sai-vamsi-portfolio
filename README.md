@@ -1,13 +1,55 @@
-# React + Vite
+**🚀 Sai Vamsi Rao – Developer Portfolio**
+---
+Welcome to my personal developer portfolio built using Vite + ReactJS, showcasing my projects, skills, and journey as a software developer.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+🔍 About This Project
+--
+This portfolio highlights:
+✅ Clean, modern, and responsive UI
+✅ Dark/Light mode toggle
+✅ Dedicated sections – About, Skills, Projects, and Contact
+✅ Fast build with Vite + ReactJS
+✅ Styled using custom CSS & animations
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+Technologies Used
+--
+⚛️ ReactJS (Frontend framework)
+⚡ Vite (Build tool)
+🌐 HTML5 & CSS3
+💻 JavaScript (ES6+)
+🎨 AOS (Animate on Scroll)
+🔗 React Icons
+🖌️ Figma / Canva for design
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-"# sai-vamsi-portfolio" 
+📂 Project Structure
+--
+my-portfolio/
+│
+├── public/              # Static assets (resume, icons, etc.)
+├── src/
+│   ├── components/      # Navbar, Footer, ProjectCard, etc.
+│   ├── pages/           # About, Home, Projects, Contact
+│   ├── assets/          # Images, profile picture
+│   ├── App.jsx          # Main app component
+│   └── index.css        # Global styles
+│
+├── index.html
+├── package.json
+├── vite.config.js
+└── README.md
+
+
+**🛠️ Setup Instructions**
+Clone the repo:
+
+git clone https://github.com/saivamsi-dev/sai-vamsi-portfolio.git
+--
+Install dependencies:
+
+npm install
+--
+Start the development server:
+
+
