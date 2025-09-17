@@ -1,0 +1,45 @@
+.project-card {
+  transition: all 0.3s ease;
+  border-radius: 10px;
+  background-color: #ffffff;
+  color: #212529;
+  overflow: hidden;
+}
+
+.project-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+.project-card img {
+  height: 180px;
+  object-fit: cover;
+}
+
+.project-card .card-body {
+  padding: 1rem;
+}
+
+/* DARK MODE */
+.dark-mode .project-card {
+  background-color: #1e1e1e !important;
+  color: #f1f1f1 !important;
+}
+
+.dark-mode .project-card .card-text {
+  color: #cccccc !important;
+}
+
+.dark-mode .btn-outline-dark {
+  border-color: #888;
+  color: #ddd;
+}
+
+.dark-mode .btn-outline-dark:hover {
+  background-color: #333;
+  color: #fff;
+}
+/* Fix for text-muted in dark mode */
+.dark-mode .projects-section p {
+  color: #ccc !important;
+}

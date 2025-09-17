@@ -1,0 +1,36 @@
+/* Skills.css */
+
+.skill-card {
+    background-color: var(--bs-light);
+    color: var(--bs-dark);
+    transition: background-color 0.4s ease, transform 0.3s ease;
+    text-align: center;
+    border-radius: 12px;
+}
+
+.skill-card:hover {
+    background-color: #e6f0ff;
+    /* Light Blue hover */
+    transform: translateY(-5px);
+}
+
+body.dark-mode .skill-card {
+    background-color: #1e1e1e;
+    color: #f1f1f1;
+}
+
+body.dark-mode .skill-card:hover {
+    background-color: #2a2a2a;
+    /* Darker hover */
+}
+
+.skill-card:hover {
+    transform: scale(1.05);
+    filter: brightness(1.1);
+    cursor: pointer;
+}
+
+/* Fix for text-muted in dark mode */
+.dark-mode .skills-section p {
+    color: #ccc !important;
+}

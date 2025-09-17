@@ -1,0 +1,41 @@
+/* src/components/CustomNavbar.css */
+
+.custom-navbar {
+    padding: 0.8rem 1rem;
+    transition: background-color 0.3s ease;
+    backdrop-filter: blur(10px);
+    z-index: 1000;
+}
+
+.navbar-light {
+    background-color: #f8f9fa !important;
+    color: #000;
+}
+
+.navbar-dark {
+    background-color: #1f1f1f !important;
+    color: #fff;
+}
+
+.navbar-dark .nav-link,
+.navbar-dark .navbar-brand {
+    color: #fff !important;
+}
+
+.navbar-light .nav-link,
+.navbar-light .navbar-brand {
+    color: #000 !important;
+}
+
+/* Fixed Contact Me Button */
+.contact-me-btn {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 1050;
+    border-radius: 25px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}

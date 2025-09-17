@@ -1,0 +1,64 @@
+/* CONTACT FORM SECTION STYLES */
+.contact-section {
+    padding: 3rem 0;
+}
+
+.contact-section h2 {
+    font-weight: 700;
+    margin-bottom: 1.5rem;
+}
+
+.contact-section p {
+    font-size: 1rem;
+    color: var(--bs-secondary);
+}
+
+/* FORM ELEMENT STYLES */
+.contact-section input,
+.contact-section textarea {
+    background-color: #f8f9fa;
+    color: #212529;
+    border: 1px solid #ced4da;
+    padding: 0.75rem;
+    border-radius: 0.375rem;
+}
+
+.contact-section input:focus,
+.contact-section textarea:focus {
+    border-color: #0d6efd;
+    outline: none;
+    box-shadow: 0 0 0 0.2rem rgba(13, 110, 253, 0.25);
+}
+
+.contact-section label {
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+}
+
+/* DARK MODE STYLING */
+.dark-mode .contact-section input,
+.dark-mode .contact-section textarea {
+    background-color: #1e1e1e;
+    color: #fff;
+    border-color: #444;
+}
+
+.dark-mode .contact-section input::placeholder,
+.dark-mode .contact-section textarea::placeholder {
+    color: #aaa;
+}
+
+.dark-mode .contact-section label {
+    color: #ddd;
+}
+
+.contact-section button[type="submit"] {
+    padding: 0.5rem 2rem;
+    font-weight: 600;
+    border-radius: 0.375rem;
+}
+
+/* Fix for text-muted in dark mode */
+.dark-mode .contact-section p {
+    color: #ccc !important;
+}

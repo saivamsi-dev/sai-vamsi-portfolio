@@ -1,0 +1,39 @@
+/* Home.css */
+
+/* Profile Image */
+.profile-img {
+    transition: transform 0.4s ease, box-shadow 0.4s ease;
+    box-shadow: 0 0 15px rgba(0, 123, 255, 0.25);
+}
+
+.profile-img:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 25px rgba(0, 123, 255, 0.45);
+}
+
+/* Light and dark theme compatibility */
+body.light-mode .profile-img {
+    border-color: #0d6efd;
+    /* Bootstrap Primary */
+}
+
+body.dark-mode .profile-img {
+    border-color: #66b2ff;
+    box-shadow: 0 0 20px rgba(102, 178, 255, 0.3);
+}
+
+/* Responsive spacing */
+@media (max-width: 768px) {
+    #home h1 {
+        font-size: 1.9rem;
+    }
+
+    #home .lead {
+        font-size: 1rem;
+    }
+
+    .profile-img {
+        width: 180px;
+        height: 180px;
+    }
+}   

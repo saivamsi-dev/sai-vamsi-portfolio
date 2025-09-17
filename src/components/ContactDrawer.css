@@ -1,0 +1,41 @@
+.contact-drawer {
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 300px;
+    height: 100%;
+    background-color: var(--bs-body-bg);
+    box-shadow: -2px 0 8px rgba(0, 0, 0, 0.15);
+    padding: 2rem 1.5rem;
+    z-index: 1050;
+    transition: transform 0.3s ease-in-out;
+    transform: translateX(100%);
+}
+
+.contact-drawer.open {
+    transform: translateX(0);
+}
+
+.contact-drawer h5 {
+    font-weight: 600;
+    margin-bottom: 1rem;
+}
+
+.contact-info p {
+    margin: 0.4rem 0;
+    font-size: 0.95rem;
+}
+
+.social-icons {
+    display: flex;
+    justify-content: start;
+    gap: 15px;
+    font-size: 1.4rem;
+}
+
+.sidebar-footer {
+    font-size: 0.75rem;
+    text-align: center;
+    margin-top: 2rem;
+    color: var(--bs-secondary-color);
+}
